@@ -21,3 +21,6 @@
 /yarn-error.log
 
 .byebug_history
+
+# Ignore conflicts between Spring and git
+/spring/*.pid
